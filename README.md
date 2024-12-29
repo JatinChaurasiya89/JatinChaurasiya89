@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jatin Chaurasiya
 - 👀 I’m interested in working 
-- 🌱 I’m currently learning node.js
+- 🌱 I’m learning new technologies which help me to grow 
 - 💞️ I’m looking to collaborate on Web Development & Data Science related projects
-- 📌 Reach me here is my twitter(X) link https://twitter.com/James_yeaky
+- 📌 Reach me here is my Telegram username @flinx02
 - 😄 Pronouns: call me JC 
 - ⚡ Fun fact: When you know something is wrong for other is sometimes right for you
 
